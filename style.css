@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+button {
+    margin-left: 10px;
+}
+
+#result {
+    font-weight: bold;
+    font-size: 18px;
+}
